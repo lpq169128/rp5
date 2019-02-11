@@ -20,4 +20,7 @@ public class test {
         System.out.println("第一次修改代码");
         System.out.println("第一次修改代码");
     }
+    public void dev(){
+        System.out.println("新建一个dev分支");
+    }
 }
