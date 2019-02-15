@@ -14,6 +14,8 @@ public class test {
         System.out.println("测试输出");
         System.out.println("测试输出");
         System.out.println("测试输出111");
+
+        System.out.println("增加一些内容");
     }
     public void test1(){
         System.out.println("111111111");
